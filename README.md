@@ -1,7 +1,7 @@
 # Brain-Tumor-Image-Preprocessing-Toolkit
 .
 
-# Brain Tumor Image Preprocessing Toolkit
+# Brain Tumor Image Preprocessing Toolkit.
 
 ![Brain Tumor](your-brain-tumor-image.png)
 
